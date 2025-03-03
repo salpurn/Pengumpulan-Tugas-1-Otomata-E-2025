@@ -1,4 +1,4 @@
-### Pengumpulan-Tugas-1-Otomata-E-2025
+### Pengumpulan Tugas 1 Otomata E 2025
 Anggota Kelompok:
 |    NRP     |      Name      |
 | :--------: | :------------: |
